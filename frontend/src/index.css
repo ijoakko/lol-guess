@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Beaufort';
+  src: url('/frontend/public/fonts/Beaufort/BeaufortforLOL-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Beaufort';
+  src: url('/frontend/public/fonts/Beaufort/BeaufortforLOL-Heavy.ttf') format('truetype');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Beaufort';
+  src: url('/frontend/public/fonts/Beaufort/BeaufortforLOL-Italic.ttf') format('truetype');
+  font-style: italic;
+}
