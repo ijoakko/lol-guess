@@ -105,7 +105,7 @@ function App() {
           alt="LoL Guess Logo"
           className="absolute top-[-200px] left-1/2 -translate-x-1/2 w-60 h-60 z-30 object-contain"
         />
-        <div className="bg-[#1C1C40]/80 backdrop-blur-md p-8 md:p-12 rounded-2xl shadow-lg w-full text-center">
+        <div className="bg-[#1C1C40]/80 backdrop-blur-md p-8 md:p-12 rounded-2xl shadow-lg w-full text-center border-2 border-[#C8AA6E]">
           {step === 0 && (
             <>
               <p className="mb-8">
